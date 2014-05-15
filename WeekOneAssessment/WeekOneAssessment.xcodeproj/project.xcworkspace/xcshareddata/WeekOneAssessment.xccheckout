@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8864E154-66CF-4B43-8EDA-55B248A69779</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WeekOneAssessment</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0B5DF77A-3DF5-4243-B9F4-BBF944B7ECEB</key>
+		<string>https://github.com/tmroz/Assessment_Week1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WeekOneAssessment/WeekOneAssessment.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0B5DF77A-3DF5-4243-B9F4-BBF944B7ECEB</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tmroz/Assessment_Week1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0B5DF77A-3DF5-4243-B9F4-BBF944B7ECEB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0B5DF77A-3DF5-4243-B9F4-BBF944B7ECEB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Assessment_Week1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
